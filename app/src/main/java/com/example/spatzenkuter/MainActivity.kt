@@ -41,6 +41,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     SpatzenkuterTheme {
-        Greeting("Android")
+        Greeting("Android studio prueba")
     }
 }
